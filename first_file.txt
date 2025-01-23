@@ -3,3 +3,6 @@ print("New WORLD")
 
 # vinayakaから
 print("Hello")
+
+#shibata
+print 1+1
